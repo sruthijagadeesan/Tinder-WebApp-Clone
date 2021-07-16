@@ -12,7 +12,7 @@
   <li>The back and forth switching functionality.
   <li>The chats page where you can actually type your message and send it.<br>
 
-<h1>You can check out the deployed version of my app over here --> https://tinder-clone-32963.web.app/ </h1>
+<h3>You can check out the deployed version of my app over here --> https://tinder-clone-32963.web.app/ </h3>
 
 
 <b>HAPPY CODING!!!</b>
